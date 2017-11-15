@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "academic",
+    "host": "localhost",
+    "dialect": "postgres",
+    "define": {
+        "timestamps": false
+    }
+  }
+}

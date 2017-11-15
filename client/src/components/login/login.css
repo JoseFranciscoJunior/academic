@@ -1,0 +1,32 @@
+body {
+    height: 100vh
+}
+
+.pageLogin {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+    background: #083945 !important;
+}
+
+.containerLogo {
+    width: 80%;
+    padding: 2em
+}
+
+.containerForm {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    background: #F1F1F1;
+    width: 20%
+}
+
+.containerInput {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    align-items: center;
+    width: 100%;
+}
